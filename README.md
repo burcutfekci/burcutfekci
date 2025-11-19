@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Burcu Tüfekçi  
 
-<!--
-**burcutfekci/burcutfekci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economics student with a strong passion for data, Python, and analytics.  
+💻 Completed the *Python for Everybody* specialization from the University of Michigan.  
+📊 Actively learning SQL, Data Analysis, and Python automation.  
+🚀 My goal is to start working remotely as a freelance data analyst / Python developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools I Use  
+- Python  
+- SQL  
+- SQLite  
+- Pandas  
+- Git & GitHub  
+- VS Code  
+
+---
+
+### 📌 Current Focus  
+- Building real-world Python projects  
+- Strengthening SQL + data analysis  
+- Creating portfolio projects for freelancing and job applications  
+- Preparing to start on Fiverr & international freelance platforms  
+
+---
+
+### 📫 Contact  
+**Email:** burcutekci@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/burcu-tüfekçi  
+
+---
+
+⭐ *Feel free to explore my repositories and follow my journey!*
