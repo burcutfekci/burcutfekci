@@ -27,7 +27,7 @@
 
 ### 📫 Contact  
 **Email:** burcutekci@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/burcu-tüfekçi  
+**LinkedIn:** www.linkedin.com/in/burcu-tüfekçi-a06b22213  
 
 ---
 
